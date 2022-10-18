@@ -22,7 +22,7 @@ mrjob==0.4.3
 -e git://github.com/kdparker/python-mysql-replication.git#egg=mysql-replication
 pep8==1.5.7
 ply==3.4
-py==1.4.29
+py==1.11.0
 pycrypto==2.6.1
 pyflakes==0.8.1
 pysubnettree==0.23
